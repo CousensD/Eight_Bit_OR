@@ -7,5 +7,5 @@ module tt_um_or(
 
   assign Y = a | b;
 
-  end module
+  endmodule
     
