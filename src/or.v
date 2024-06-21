@@ -5,7 +5,7 @@ module tt_um_or(
   output [7:0] Y
 );
 
-  assign Y = a or b;
+  assign Y = a | b;
 
   end module
     
