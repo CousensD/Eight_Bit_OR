@@ -7,14 +7,20 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-## How it works
+## How it works |
 
-Explain how your project works
+Circuit needs to accept 2 different two-bit inputs to one output. 
 
-## How to test
+## How to  |
 
-Explain how to use your project
+Simulate using Wokwi, testing against this truth table as a golden file
 
-## External hardware
+A | B | OR 
+0 | 0 | 0
+0 | 1 | 1
+1 | 0 | 1
+1 | 1 | 1
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+## External hardware |
+
+12 LEDs
